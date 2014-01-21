@@ -1,3 +1,5 @@
+**THIS IS NO LONGER MAINTAINED** 
+
 This is a simple Java API and its implementation to send sms from commandline using the way2sms sms service. Do the following steps
 
 1) You have to register at Way2SMS and Obtain a User Name and Password.
